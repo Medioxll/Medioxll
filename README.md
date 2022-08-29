@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Medioxll
+- 👋 Hi, I’m @Adi Varolin
 - 👀 I’m interested in Web development
 
 <!---
